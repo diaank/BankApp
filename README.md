@@ -1,7 +1,7 @@
 # Bank Application
 
 A simple banking application built with Java and Maven. This application allows users to perform basic banking operations such as deposits, withdrawals, and generating account statements.
-No currency is implemented in this demo. Simple bank operations flow is created in the main method of BankApp.java file for Account Statement generation demonstration.
+No currency is implemented in this demo. For the account statement generation demonstration, a simple bank operations flow is created in the main method of the BankApp.java file.
 
 ## Features
 
@@ -24,5 +24,5 @@ No currency is implemented in this demo. Simple bank operations flow is created 
    ```bash
    mvn test
    ```
-3. On the screen there should be a display of a demo account statement just for the demonstration purposes. 
-For further implementation remove the code in the main method of BankApp.java and BankAppTest.java test file.
+3. A demo account statement should be displayed on the screen just for demonstration purposes. 
+For further implementation, remove the code in the main method of BankApp.java and remove BankAppTest.java test file.
